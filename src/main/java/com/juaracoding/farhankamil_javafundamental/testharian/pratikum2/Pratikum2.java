@@ -1,5 +1,4 @@
 package com.juaracoding.farhankamil_javafundamental.testharian.pratikum2;
-import java.util.Scanner;
 
 /*
 IntelliJ IDEA 2022.3.1 (Community Edition)
@@ -10,6 +9,8 @@ Created on 05/11/2023 20:23
 @Last Modified 05/11/2023 20:23
 Version 1.0
 */
+
+import java.util.Scanner;
 
 public class Pratikum2 {
     public static void main(String[] args) {
